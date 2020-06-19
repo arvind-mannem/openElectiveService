@@ -1,0 +1,7 @@
+---
+applications:
+- name: OpenElectives
+  path: build\libs\OpenElective-0.0.1-SNAPSHOT.jar
+  memory: 1G
+  services:
+  - postgres
